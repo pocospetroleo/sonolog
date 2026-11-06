@@ -8,13 +8,13 @@
   "theme_color": "#0a2342",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/pocospetroleo/gestao-pocos-operacional/main/emblema-gp-original.png",
+      "src": "https://raw.githubusercontent.com/pocospetroleo/gestao-pocos-operacional/main/emblema-gp-assinatura-L.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://raw.githubusercontent.com/pocospetroleo/gestao-pocos-operacional/main/emblema-gp-original.png",
+      "src": "https://raw.githubusercontent.com/pocospetroleo/gestao-pocos-operacional/main/emblema-gp-assinatura-L.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
